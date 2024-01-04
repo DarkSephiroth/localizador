@@ -1,0 +1,42 @@
+body {
+    margin: 0em;
+    font-family: 'Noto Sans', sans-serif;
+  }
+  
+  h1,h2,h3,h4,h5,p{
+    font-family: 'Fjalla One', sans-serif;
+  }
+  
+  .cover{
+    height:100vh;
+    background-image:url(https://cdn.glitch.global/d598f6b3-85d4-4139-92be-c17a41b12070/tom-barrett-dkv2CXSoVfs-unsplash.jpg?v=1702152438487);
+    color:skyblue;
+    background-size: cover; 
+    background-position:center; 
+    font-size:7rem;
+  }
+  
+  .cover2{
+    height:100vh;
+    background-image:url(https://cdn.glitch.global/d598f6b3-85d4-4139-92be-c17a41b12070/rsz_1daniil-silantev-pxu__wozmzu-unsplash.jpg?v=1702155607412);
+    color:skyblue;
+  }
+  
+  .cover3{
+    font-size:3rem;
+    color:skyblue;
+    font-family: 'Fjalla One', sans-serif;
+  }
+  
+  .cover-small{
+    height:200px; 
+  }
+  
+  .cover-card{
+    background-color:black;
+  }
+  
+  .card-text{
+    min-height:6rem;
+  }
+  
